@@ -30,8 +30,7 @@
 
 # 📖 HelloRails React <a name="about-project"></a>
 
-**HelloRails React** is a Rails and React application. React frontend is developed in the same application using Webpack. 
-
+In this project, I created a Rails back-end that will serve as the API for displaying greeting messages in a React front-end application. The Rails back-end is responsible for storing the greeting messages in a Postgres database and providing an API endpoint to fetch a random greeting.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -91,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd desired-folder
-  git clone https://github.com/djo1975/Hello-World
+  git clone https://github.com/djo1975/Hello-rails-back-end
 ```
 
 
@@ -147,7 +146,7 @@ You can deploy this project on Render. Please follow [this render deployment gui
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/djo1975/Hello-World/issues/).
+Feel free to check the [issues page](https://github.com/djo1975/Hello-rails-back-end/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +154,7 @@ Feel free to check the [issues page](https://github.com/djo1975/Hello-World/issu
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please ⭐️ [the project repo](https://github.com/djo1975/Hello-World).
+If you like this project, please ⭐️ [the project repo](https://github.com/djo1975/Hello-rails-back-end).
 This will highly motivate me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
