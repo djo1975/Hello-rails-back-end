@@ -15,10 +15,10 @@ module HelloRailsBackEnd
     config.middleware.insert_before 0, Rack::Cors do
       allow do
         origins 'http://localhost:3001' # Dodajte adresu vašeg React servera
-        resource '*', headers: :any, methods: [:get, :post, :options] # Možete prilagoditi dozvoljene metode
+        resource '*', headers: :any, methods: %i[get post options] # Možete prilagoditi dozvoljene metode
       end
     end
-        # These settings can be overridden in specific environments using the files
+    # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
     # config.time_zone = "Central Time (US & Canada)"
