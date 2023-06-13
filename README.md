@@ -28,9 +28,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HelloRails React <a name="about-project"></a>
+# 📖 HelloRails Rails <a name="about-project"></a>
 
 In this project, I created a Rails back-end that will serve as the API for displaying greeting messages in a React front-end application. The Rails back-end is responsible for storing the greeting messages in a Postgres database and providing an API endpoint to fetch a random greeting.
+# 📖 Hello Rails Front End <a name="about-project"></a>
+Link to the front-end: https://github.com/djo1975/Hello-rails-front-end
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
